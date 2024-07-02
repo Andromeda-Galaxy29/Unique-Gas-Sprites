@@ -5,4 +5,4 @@ description: "Tiny mod that makes gases have unique sprites. (The sprites were m
 version: "1.0"
 minGameVersion: "146"
 dependencies: [ ]
-hidden: true
+hidden: false
