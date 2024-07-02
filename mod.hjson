@@ -1,7 +1,7 @@
 name: "gas-sprites"
 displayName: "Unique Gas Sprites"
 author: AndromedaGalaxy29
-description: "Tiny mod that makes gases have unique sprites. (The sprites were added into the official game but left unused, [accent[]]all credit for the sprites goes to the developer[white[]])"
+description: "Tiny mod that makes gases have unique sprites"
 version: "1.0"
 minGameVersion: "146"
 dependencies: [ ]
